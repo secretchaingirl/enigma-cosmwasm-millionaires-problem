@@ -1,0 +1,15 @@
+# Cargo
+.cargo-ok
+
+# Build results
+/target
+
+# Text file backups
+**/*.rs.bk
+
+# macOS
+.DS_Store
+
+# IDEs
+*.iml
+.idea
